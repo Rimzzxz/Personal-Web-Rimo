@@ -14,6 +14,8 @@ body {
   color: #4e4e4e;
 }
 
+
+
 h1,
 h2,
 h3,
@@ -1073,7 +1075,7 @@ a:hover {
 
 .testimonial-box .author {
   color: #fff;
-  text-transform: uppercase;
+ 
   font-weight: 600;
   margin: 1rem 0;
   display: block;
